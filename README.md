@@ -1,6 +1,6 @@
-#Projekt 1 PFSwChO
+# Projekt 1 PFSwChO
 
-##Aplikacja została stworzona na podstawie zadania 10
+## Aplikacja została stworzona na podstawie zadania 10
 
 ## Zrzut ekranu
 ![image](Screenshot.png "Screenshot")
@@ -12,12 +12,12 @@ Aby uruchomić usługę należy wykorzystać polecenie:
 
 Aplikacja uruchamia się na porcie 80.
 
-###Dodano:
+### Dodano:
 - Main.js - komponent strony głównej
 - Documentation.js - komponent wyświetlający dokumentację
 - History.js - komponent wyświetlający historię ostatnich 10 wprowadzanych wartości
            
-###Zmodyfikowano:
+### Zmodyfikowano:
 **client:**
 - Fib.js - dodano metody umożliwiające interakcję z modułem historii
 - App.js - zrealizowano w formie routera React
